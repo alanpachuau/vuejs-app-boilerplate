@@ -3,7 +3,12 @@
         <v-list>
             <v-list-item>
                 <v-list-item-icon>
-                    <img src="/img/logo.png" height="100%" width="50px" />
+                    <v-img
+                            :src="require('../../assets/logo.svg')"
+                            contain
+                            height="100%"
+                            width="50px"
+                    ></v-img>
                 </v-list-item-icon>
                 <v-list-item-content>
                     <v-list-item-title>MTKP</v-list-item-title>
