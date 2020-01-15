@@ -10,7 +10,7 @@
                             </v-row>
                         </v-card>
                         <v-card-text class="px-10">
-                            <p class="text-center grey--text">MIZORAM THALAI KRISTIAN PAWL</p>
+                            <p class="text-center grey--text">LOGIN</p>
                             <v-form>
                                 <v-row>
                                     <v-col cols="12">
