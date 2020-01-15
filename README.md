@@ -1,5 +1,5 @@
-# VueJs Web Application Template
-VueJs Application using Firebase Firestore and Algolia. This base structure includes basic admin layout with user management and login.
+# VueJs Web Application Boilerplate
+VueJs Application using Firebase Firestore and Algolia. This boilerplate project includes basic admin layout with user management and login.
 
 ## Preliminary Configuration
 1. Rename .env.example to .env file.
