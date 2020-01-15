@@ -231,7 +231,6 @@
                     data: item,
                     time: new Date().getTime()
                 }
-                console.log(item)
             },
             searchFilter() {
                 let self = this
@@ -245,7 +244,6 @@
                         filters: filters,
                         hitsPerPage: 100,
                     }).then(function (response) {
-                        console.log(response)
                         self.noMore = true
                         self.itemsPerPage = response.nbHits
 
