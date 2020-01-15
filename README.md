@@ -1,4 +1,4 @@
-# vuejs-web-base
+# VueJs Web Application Template
 VueJs Application using Firebase Firestore and Algolia. This base structure includes basic admin layout with user management and login.
 
 ## Preliminary Configuration
